@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git tracks changes of files.
 I can use git and unstand github.
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
